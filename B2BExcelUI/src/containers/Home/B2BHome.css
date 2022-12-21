@@ -1,0 +1,4 @@
+.bulk-import-section {
+    display: flex;
+    flex-flow: row-reverse;
+}
