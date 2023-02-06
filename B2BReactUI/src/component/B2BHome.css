@@ -1,0 +1,10 @@
+.bulk-import-section {
+    display: flex;
+    flex-flow: row-reverse;
+}
+h2 {
+    color: green;
+}
+.MuiTablePagination-root {
+    margin-right: 40px;
+}
